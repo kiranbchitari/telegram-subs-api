@@ -1,0 +1,1 @@
+{"id":"58f0159c-9443-40f5-a0d3-6a35080da6d8","space":41706,"runtime":"python3.9","name":"telegram_subs_api","path":"d9m0fe","project":"b0xbbdk4","account":"144798365827","region":"us-east-1","deps":["bs4","lxml","requests","flask","gunicorn"],"envs":null,"public":true,"log_level":"off","cron":""}
